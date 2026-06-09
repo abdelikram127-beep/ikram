@@ -1,0 +1,8 @@
+{
+  "name": "Evening Routine Tracker",
+  "description": "Interactive evening routine tracker starting at 20:00 based on your handwritten tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
